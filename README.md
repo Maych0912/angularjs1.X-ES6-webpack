@@ -7,7 +7,6 @@
 
 ```bash
 
-git clone https://github.com/fanqifeng/angular-webpack.git
 cd angular-webpack
 npm install
 
